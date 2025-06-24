@@ -5,7 +5,6 @@
 #include <sstream>
 #include <unordered_map>
 #include <cassert>
-
 #include <boost/variant.hpp>
 
 #include "dbcppp/Network.h"
