@@ -7,3 +7,6 @@
 [submodule "third-party/libxml2"]
 	path = third-party/libxml2
 	url = https://github.com/GNOME/libxml2.git
+[submodule "dbcppp"]
+	path = dbcppp
+	url = https://github.com/LouisVerbruggeWeenav/dbcppp.git
